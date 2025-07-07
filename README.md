@@ -6,6 +6,8 @@
 
 **🛠️Tools:** 
 
+-Dataset: Titanic(Kaggle)
+
 -Jupyter Notebook 
 
 -Python (Pandas, Matplotlib, Seaborn)<br><br>
